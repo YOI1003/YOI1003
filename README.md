@@ -2,7 +2,7 @@
 <p>Games are not created alone; they grow with a team, players, and the community. <br/>
 My goal is to develop the best game together with everyone.</p>
 
-<img src="https://upload-os-bbs.hoyolab.com/upload/2021/09/01/76382368/525edfc1969dc770a70dea44362a39dd_219048515995304646.gif">
+<img src="525edfc1969dc770a70dea44362a39dd_219048515995304646.gif">
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=YOI1003&show_icons=true&theme=tokyonight">
